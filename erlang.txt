@@ -1,4 +1,4 @@
 erlang_repos
-- rajin menabung
-- tekun
-- tidak malas
++ rajin menabung
++ tekun
++ tidak malas
